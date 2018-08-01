@@ -1,2 +1,2 @@
 # lucianadrian.github.io
-Rants, considerations and others related to #testing, #agile and others alike
+My thoughts, views, tips & tricks plus ocasional rants related to #testing, #agile and others alike
